@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices", "boxplot.stats")
+importFrom("graphics", "boxplot", "hist", "plot")
+importFrom("stats", "dnorm", "na.omit", "qchisq", "sd", "var")

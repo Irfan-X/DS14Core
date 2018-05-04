@@ -1,0 +1,13 @@
+Package: ds14core
+Type: Package
+Title: DS14 Core Package
+Version: 0.1.0
+Author: Irfan 
+Maintainer: The package maintainer <zissiar2@gmail.com>
+Description: The package contains functions for. 
+        1. Performing Chi-Square Test. 
+        2. Understanding Central Limit Theorem.
+ This package is a copyright @DS14core group of Ramesh Sir Students.
+License: copyright@DS14Core.
+Encoding: UTF-8
+LazyData: true
